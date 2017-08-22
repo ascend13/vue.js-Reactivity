@@ -187,4 +187,4 @@ function Dep () {
         }
     }
 ```
-至此双向绑定已完成，完整代码[点我](https://www.baidu.com/)
+至此双向绑定已完成
