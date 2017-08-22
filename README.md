@@ -1,3 +1,5 @@
+[预览地址](https://ascend13.github.io/vue.js-Reactivity/)
+
 ### 实现思路
 首先需要知道vue实现双向绑定的原理是基于数据劫持的，通过Object.defineProperty()的getter和setter对属性的劫持，并结合订阅/发布模式，当数据变化时对订阅者发出通知，触发订阅者的更新方法来更新视图。
 
